@@ -130,10 +130,13 @@ div1 {
   border-right: white;
   flex: 0.30;
   }
-  doittryit {
+  .doittryit {
     display:flex;
     flex-direction:column;
     justify-content:center;
+    position:relative;
+    left:-50px;
+    
   }
   .heading {
     margin-right:0px;
@@ -154,10 +157,12 @@ div1 {
   }
   .shift{
     position:relative;
+    top:-40px;
     right:175px;
+   
   }
   #resume{
-    margin-bottom:20px;
+    margin-bottom:0px;
     margin-left:450px;
   }
   #exp {
@@ -176,6 +181,16 @@ div1 {
     position:relative;
     left:220px;
   }
+  #exper{
+    position:relative;
+    right:-10px;
+  }
+  .tab3{
+    margin-right:100px;
+  }
+  
+  
+  
   
  }
 
