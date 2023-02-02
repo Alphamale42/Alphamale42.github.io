@@ -188,9 +188,27 @@ div1 {
   .tab3{
     margin-right:100px;
   }
-  
-  
-  
+  #aligner {
+    position:relative;
+    left:-150px;
+    width:405px;
+    height:420px;
+    
+  }
+  #marglow{
+    margin-bottom:0px;
+  }
+  #margup {
+    margin-top:0px;
+  }
+  #about {
+    margin-bottom:0px;
+  }
+  .inner{
+    position:relative;
+    left:50px;
+  }
+ 
   
  }
 
